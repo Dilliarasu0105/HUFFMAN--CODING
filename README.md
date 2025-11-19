@@ -30,7 +30,7 @@ print the characters and its huffmancode.
 ## REG.NO: 212223230049 ##
 
 # Step 1: Get the input string
-input_string = "AANKARSH J"  # Example input string
+input_string = "DILLIARASU M"  # Example input string
 # Step 2: Calculate frequency of each character in the input string
 frequency = {}
 for char in input_string:
